@@ -2,7 +2,7 @@
 - 🎓 I am currently a Senior at The University of North Carolina Wilmington, majoring in Business Administration with a concentration in Management Information Systems and a minor in Cybersecurity. I will be graduating in May 2024! I am currently searching for a job/internship!
 - 👀 I’m interested in ... Software and Web Development
 - 🌱 I’m currently learning ... Python, DevOps techniques, HTML/CSS
-- ✈️ I love to travel! I have been to 15 countries and 49/50 states in the USA!
+- ✈️ I love to travel! I have been to 15 countries and all 50 states in the USA!
 - 📫 How to reach me ... jmlamoreux@gmail.com
 
 <!---
